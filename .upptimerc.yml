@@ -8,7 +8,6 @@ assignees:
 sites:
   - name: Loducode
     url: https://loducode.com/
-    maxResponseTime: 5000
   - name: AXA
     url: https://axacolpatriabot.com/69b16986-ff63-11ea-adc1-0242ac120002/
   - name: Pasmo dev
@@ -20,7 +19,9 @@ sites:
   - name: Mi pasaje
     url: https://mi-pasaje.loducode.com/
   - name: Tipsco
-    url: https://tipsco.com/es/
+    url: https://tipsco.com/es/products/
+    __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_host: true
   - name: Tipsco dev
     url: http://3.145.1.238:30003/es/
   - name: Vault loducode
