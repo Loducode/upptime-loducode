@@ -1,16 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: UnTalDulcey # Your GitHub organization or username, where this repository lives
+repo: upptime-loducode # The name of this repository
+
+assignees:
+  - UnTalDulcey
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Loducode
+    url: https://loducode.com/
+  - name: AXA
+    url: wss://axacolpatriabot.com/ws/chat/
+  - name: Pasmo dev
+    url: https://app.holaubi.org/
+  - name: Pasmo pro
+    url: https://chatbot.holaubi.org/
+  - name: KOZ lands
+    url: https://kingdom-of-zoe.loducode.com/es/lands/
+  - name: Mi pasaje
+    url: https://mi-pasaje.loducode.com/
+  - name: Tipsco
+    url: https://tipsco.com/es/
+  - name: Tipsco dev
+    url: http://3.145.1.238:30003/es/
+  - name: Tipsco dev
+    url: https://vault.loducode.com/ui/vault/auth?with=token
+   
+  
+    
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
