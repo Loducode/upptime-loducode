@@ -2,9 +2,6 @@
 owner: UnTalDulcey # Your GitHub organization or username, where this repository lives
 repo: upptime-loducode # The name of this repository
 
-status-website:
-  theme: dark
-
 assignees:
   - UnTalDulcey
 
@@ -36,8 +33,9 @@ status-website:
   baseUrl: /upptime-loducode
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Pagina de estado de las pagina que administra de *loducode sas*"
+  introMessage: Aqui se motraran la pagina del bot de axa, Loducode, pasmo, Kingdom of zoe, Mi pasaje, Tipsco, Tipsco dev, Vault
+  theme: dark
   navbar:
     - title: Status
       href: /
@@ -46,7 +44,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-status-website:
-  introTitle: "Pagina de estado de las pagina que administra de *loducode sas*"
-  introMessage: Aqui se motraran la pagina del bot de axa, Loducode, pasmo, Kingdom of zoe, Mi pasaje, Tipsco, Tipsco dev, Vault
