@@ -46,3 +46,7 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+status-website:
+  introTitle: "Pagina de estado de las pagina que administra de *loducode sas*"
+  introMessage: Aqui se motraran la pagina del bot de axa, Loducode, pasmo, Kingdom of zoe, Mi pasaje, Tipsco, Tipsco dev, Vault
