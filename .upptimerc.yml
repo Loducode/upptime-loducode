@@ -14,8 +14,10 @@ sites:
     url: https://app.holaubi.org/
   - name: Pasmo pro
     url: https://chatbot.holaubi.org/
-  - name: KOZ lands
+  - name: KOZ lands Dev
     url: https://kingdom-of-zoe.loducode.com/es/lands/
+  - name: KOZ lands Prodution
+    url: https://sale.kingdomofzoe.app/es/lands/
   - name: Mi pasaje
     url: https://mi-pasaje.loducode.com/
   - name: Tipsco
