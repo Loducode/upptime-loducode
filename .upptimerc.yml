@@ -28,6 +28,8 @@ sites:
     url: http://3.145.1.238:30003/es/
   - name: Vault loducode
     url: https://vault.loducode.com/ui/vault/auth/
+  - name: Plikis
+    url: https://plikis.loducode.com/es/admin/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
