@@ -19,7 +19,7 @@ sites:
   - name: KOZ lands Prodution
     url: https://sale.kingdomofzoe.app/es/lands/
   - name: Mi pasaje
-    url: http://mipasaje.ec/es/
+    url: https://mipasaje.ec/es/
   - name: Tipsco
     url: https://tipsco.com/es/products/
     __dangerous__disable_verify_peer: true
