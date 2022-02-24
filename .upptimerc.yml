@@ -29,7 +29,7 @@ sites:
   - name: Vault loducode
     url: https://vault.loducode.com/ui/vault/auth/
   - name: Plikis
-    url: https://plikis.loducode.com/es/admin/
+    url: https://plikis.app/es/admin/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
