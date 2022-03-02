@@ -30,6 +30,8 @@ sites:
     url: https://vault.loducode.com/ui/vault/auth/
   - name: Plikis
     url: https://plikis.app/es/admin/
+  - name: Stereo picnic
+    url: hhttps://stereo-picnic.loducode.com/es/nfts/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
