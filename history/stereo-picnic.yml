@@ -1,7 +1,7 @@
 url: https://stereo-picnic.loducode.com/es/nfts/
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 253
-lastUpdated: 2022-03-05T23:10:46.043Z
+lastUpdated: 2022-03-05T23:43:00.928Z
 startTime: Wed Mar 02 2022 14:53:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
