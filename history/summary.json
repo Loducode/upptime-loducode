@@ -234,19 +234,19 @@
     "url": "https://stereo-picnic.loducode.com/es/nfts/",
     "icon": "https://favicons.githubusercontent.com/stereo-picnic.loducode.com",
     "slug": "stereo-picnic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 253,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 229,
+    "timeDay": 266,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2022-03-05": 0
+      "2022-03-05": 14
     }
   }
 ]
