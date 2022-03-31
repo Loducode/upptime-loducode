@@ -1,7 +1,7 @@
 url: https://mipasaje.ec/es/
-status: up
-code: 200
-responseTime: 319
-lastUpdated: 2022-03-30T23:12:10.021Z
+status: down
+code: 500
+responseTime: 1178
+lastUpdated: 2022-03-31T19:53:11.185Z
 startTime: Thu Feb 03 2022 22:02:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
