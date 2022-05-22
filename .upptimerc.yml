@@ -30,8 +30,8 @@ sites:
     url: https://vault.loducode.com/ui/vault/auth/
   - name: Plikis
     url: https://plikis.app/es/admin/
-  #- name: Stereo picnic
-  #  url: https://stereo-picnic.loducode.com/es/nfts/
+  - name: Mad droids dev
+    url: https://dev.maddroids.io/es/devs/shop-devs/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
